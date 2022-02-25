@@ -1,0 +1,561 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The parable of the black-bird[s] and the magpie vindicated</title>
+            <author>Thompkins, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64579</idno>
+            <idno type="STC">Wing T997</idno>
+            <idno type="STC">ESTC R25647</idno>
+            <idno type="EEBO-CITATION">09053563</idno>
+            <idno type="OCLC">ocm 09053563</idno>
+            <idno type="VID">42330</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64579)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42330)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1296:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The parable of the black-bird[s] and the magpie vindicated</title>
+                  <author>Thompkins, Edward.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Thompkins,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Edward Thompkins--NUC pre-1956 imprints.</note>
+                  <note>An allegory on the history of England from the reign of Charles I to the accession of William III.</note>
+                  <note>Imperfect: tightly bound. Huntington Library copy spliced at end.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Stuarts, 1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="parable">
+            <pb facs="tcp:42330:1"/>
+            <pb n="1" facs="tcp:42330:1" rendition="simple:additions"/>
+            <head>THE PARABLE OF THE BLACK-BIRDS. And the <hi>MAGPIES</hi> Vindicated.</head>
+            <p>
+               <hi>ALL Sublunary Things are ſubject to Muta<g ref="char:EOLhyphen"/>tion. A late</hi> Vulturean, <hi>to confirm which Maxim, is become a</hi> Black-bird; <hi>who liſtening to Intereſt, having chang'd his Note, whiſtles to the Second Part of the ſame Tune, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ractis'd by the</hi> Black-birds <hi>in Forty One,</hi> (viz.) <hi>Down with the Magpies.</hi>
+            </p>
+            <p>
+               <hi>But I find He, like the</hi> Owle, <hi>rather than Starve <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Wood, will ſubmit to Catch</hi> Mice <hi>in the Barn; <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd had rather live privately under the diſguiſe of a</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lack-bird, <hi>then expoſe himſelf to the Publick danger <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> being thought (in theſe times) a</hi> Vulturean.</p>
+            <p>SInce Nature ſeems Retrograde, the World's Metamorphos'd, Honeſty turn'd Policy, each <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>entence a Paradox, and each Satyr a Parable; <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hings looking all with Viſionary Aſpects, as if <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>las,</hi> in a Rage, had caſt the Globe from his wea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Shoulders, and turn'd the World Top-ſide<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rvy: I cannot but wonder; and yet Conform, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ch others, to amuſe the Age with a New Dream, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>geſted after an old Method. And ſince <hi>Parables</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e become Accuſtomary, and <hi>Fables</hi> Faſhionable, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ntertain you with One, as followeth:</p>
+            <p>'Twas on a Time, when the <hi>Eagle,</hi> Soveraign <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Birds,</hi> began to inſpect into the Grievances his Feather'd Subjects, from whom he had re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>v'd many Complaints, eſpecially from the <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ck-birds;</hi> who pretended great Impoſitions <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>re laid upon them by the <hi>Magpies,</hi> whoſe Ju<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e, Fidelity, and Allegiance, the <hi>Eagle</hi> had par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>larly obſerv'd; and plainly diſcover'd the <hi>Black-birds</hi> to be full of Hypocriſie, Malice, Co<g ref="char:EOLhyphen"/>vetouſneſs, pretended Zeal, Ignorance, and Am<g ref="char:EOLhyphen"/>bition.</p>
+            <p>The <hi>Eagle,</hi> with all Care, Equity, and Good Conſcience, began Impartially to Examine into the Cauſe of this Irreconcilable Difference be<g ref="char:EOLhyphen"/>tween Them, that he might Redreſs thoſe Inju<g ref="char:EOLhyphen"/>ries the <hi>Black-birds</hi> had ſuſtain'd by the <hi>Magpies;</hi> and that they might become Friends, and Rouſt peaceably each upon his own Branch, one by another.</p>
+            <p>The <hi>Black-birds,</hi> by this time, had whiſtled out all the Infamy againſt the Innocent <hi>Magpies,</hi> that the Malice of ſuch Hedgbirds could contrive; whoſe deſembling Notes mov'd the <hi>Owles, Cuckoes, Herns, Buzzards, Crows, Ravens,</hi> and <hi>Jackdaws,</hi> to be inclinable to pity their Complaints.</p>
+            <p>Upon this, the <hi>Eagle,</hi> with his <hi>Doves, Pheaſants, Nightingales, Golfinches,</hi> and <hi>Linnets,</hi> through a ſtrickt inquiry, fathom'd their Deſigns, and clear<g ref="char:EOLhyphen"/>ly diſcover'd the Cauſe of their Diſcontent, and Envy againſt the <hi>Magpies;</hi> who retaining no man<g ref="char:EOLhyphen"/>ner of ill-will againſt their bitter Enemies the <hi>Black-birds,</hi> ſought by all means to reconcile their Enmity, and eſtabliſh an amicable Friendſhip be<g ref="char:EOLhyphen"/>tween them; procuring them all ſuch Grants of Privileges, as was requiſite for the Ambitious <hi>Black-birds</hi> to be Maſters of.</p>
+            <p>But theſe Rebellious <hi>Birds,</hi> whom no Favour could win, no Reaſon Convince, or any Submiſ<g ref="char:EOLhyphen"/>ſion Pacifie, were ſtill ſoaring to be Maſters of the <hi>Magpies</hi> Branches craving all Preferments of the
+<pb n="2" facs="tcp:42330:2"/>
+               <hi>Eagle,</hi> and whiſtling aloud, with ſtrain'd Throats, <hi>Down, down, with the</hi> Magpies; <hi>pluck out the White Feather's from their Wings; they are Marks of the</hi> Vulture's <hi>Cruelty; Down with them; Quick, quick, quick!</hi>
+            </p>
+            <p>This Notorious whiſtle of the <hi>Black-birds,</hi> being heard through all the Adjacent Woods, Groves, and Hedges, greatly alarm'd the <hi>Hawks, Kites, Batts, Screech-Owles,</hi> and <hi>Night-Ravens;</hi> who, un<g ref="char:EOLhyphen"/>acquainted with the Whining Deceit, the conceal'd Malice, and ſelf-ended Subtilty of the <hi>Black-birds,</hi> ask'd them the Reaſon, Why they alarm'd the Woods with ſo dreadful a Whiſtle? Who an<g ref="char:EOLhyphen"/>ſwer'd in great Flocks, which darken'd the very Trees they ſat on, <hi>The</hi> Magpies <hi>are bringing</hi> Vul<g ref="char:EOLhyphen"/>tury <hi>upon us, with Conſent of the</hi> Eagle; <hi>Down with them, down with them!</hi> Which confus'd, Anſwer ſo amaz'd the Inquiſitive Flock, that they all fell on ſcreaming in diſcord, to ſhew the dreadful ap<g ref="char:EOLhyphen"/>prehenſions they lay under; promiſing the <hi>Black-birds,</hi> they would Perch by them, and uſe their Bills, and their Claws, for their Preſervation to the utmoſt.</p>
+            <p>Some of the <hi>Eagle</hi>'s Loyal <hi>Doves,</hi> murmuring at the Treaſonable Whiſtles, the Notorious Villanies, and Rebellious Proceedings, of the <hi>Black-birds,</hi> flew with all ſpeed to the <hi>Eagle</hi>'s Court, to inform him of their Treachery and Conſpiracy againſt him, and his Government; which the <hi>Eagle</hi> hear<g ref="char:EOLhyphen"/>ing, iſſued out Proclamation ſign'd with his broad Claw, to impower the Feather'd Quire to make choice of Two Members for every ſuch Grove, Wood, Bower, and Wilderneſs, where they had ſeverally taken up their reſpective Habitations; that ſhould preſent, and lay open, their Grievan<g ref="char:EOLhyphen"/>ces before Him, and they ſhould be redreſt.</p>
+            <p>The <hi>Black-birds</hi> whiſtling over the <hi>Eagle</hi>'s Pro<g ref="char:EOLhyphen"/>clamation, immediately took Wing, diſtributing themſelves over all Woods, Groves, <hi>&amp;c.</hi> under the <hi>Eagle</hi>'s Dominion; adviſing all other <hi>Birds</hi> to make choice of ſuch Members, as would pluck down the <hi>Magpies;</hi> for that they deſign'd to bring in <hi>Vultury</hi> upon them; which if they took not ſpecial care to prevent, they ſhould not Rooſt ſafely in their Arbours, without the danger of deſtruction.</p>
+            <p>This Rebellious Stratagem of the <hi>Black-birds,</hi> whiſtled ſuch amazement into the Ears of the Cre<g ref="char:EOLhyphen"/>dulous Choriſters, that they pickt out none but, what were fit Inſtruments to carry on the Trea<g ref="char:EOLhyphen"/>ſonable Deſigns of the <hi>Black-birds.</hi>
+            </p>
+            <p>The day appointed by the <hi>Eagle</hi>'s Summon the Members whiſtled out by the <hi>Black-bird</hi> conſiſting of <hi>Geeſe, Woodcocks, Canary-birds,</hi> an<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Waterwagtails,</hi> aſſembled themſelves together, an<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Perch'd upon an Ancient Oak in a Neighbourin<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Grove, in the <hi>Eagle</hi>'s Palace; where the <hi>Eagle,</hi> at<g ref="char:EOLhyphen"/>tended by his Loyal <hi>Doves</hi> and <hi>Magpies,</hi> met the<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in his Royal Splendour; where he made to them a moſt Gracious Speech, expreſſing Himſelf wit<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> all the earneſt Affection becoming the Royalty <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Soveraign <hi>Bird,</hi> to his Winged Subjects; declar<g ref="char:EOLhyphen"/>ing how Induſtrious his <hi>Magpies</hi> and <hi>Himſelf</hi> were to preſerve their Laws and Liberties from the op<g ref="char:EOLhyphen"/>preſſion of the <hi>Vulture;</hi> and that he would con<g ref="char:EOLhyphen"/>deſcend to any thing they ſhould propoſe, tha<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> might eſtabliſh their ſafety upon a more ſure foun<g ref="char:EOLhyphen"/>dation; and that it was plainly evident, the <hi>Blac<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>-birds</hi> diſcontent proceeded from no other cauſe than Jealouſie and Ambition; and therefore deſi<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Aſſembly of <hi>Birds</hi> there preſent, as he hop<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> they were dutiful and faithful Subjects to Him, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Concur in all things requir'd for the Good <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Safety of his preſent Government, under whi<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> he deſir'd, that they might enjoy all Pea<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Plenty, and Satisfaction.</p>
+            <p>But the <hi>Black-birds,</hi> having whiſtl'd out da<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>Principles into the Ears of the Feather'd Aſſembl<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that the <hi>Eagle</hi>'s Gracious Speeeh availed nothi<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with them, ſo that they all flew out into gre<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Murmurings and Diſorders, crying out, <hi>Do<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> with the</hi> Magpies, <hi>away with</hi> Vultury.</p>
+            <p>Upon this the <hi>Eagle</hi> thinking himſelf not ſafe<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his old Neſt, took Flight, with his <hi>Doves</hi> and <hi>Ma<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>pies,</hi> to a Wood forty Miles diſtant from his fo<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mer Reſidence.</p>
+            <p>In this Interim, the Rebellious <hi>Black-birds</hi> whiſtling forth an Oration throughout the <hi>Eagl<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> Dominions, That He, and his <hi>Magpies,</hi> deſign a Total Ruine of all the <hi>Birds</hi> of the Air, by int<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ducing <hi>Vultury</hi> amongſt them; exciting them <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Rebellion againſt their Lawful Soveraign the <hi>Eag<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> and his <hi>Magpies.</hi>
+            </p>
+            <p>This Wild Note of the <hi>Black-bir<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> ſo tickl'd <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ears of the Credulous Flock of Poultry, that th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> whetted their Beaks, and ſharpned their Claw and ſiding with the <hi>Black birds,</hi> Levy'd War agai<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap> 
+               <pb n="3" facs="tcp:42330:2"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>veral Skirmiſhes, and Pitcht Battles they had, many <hi>Engliſh Cocks</hi> falling on the <hi>Eagle</hi>'s fide; and many <hi>Owles, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rds,</hi> and <hi>Cuckoos</hi> droping on the other; till, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t laſt, by a <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>as war, many Rebellious fowls ſtanding up in vindication <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Blackbirds, they grew too ſtrong for the <hi>Eaglci</hi>'s Party; at laſt, they took Priſoner, with ſeveral of his Loyal <hi>Doves, Magpies,</hi> Erecting a Court of Judicature by their own Ille<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mate Authority, placing <hi>Hawks, Herns,</hi> and <hi>Buzzards</hi> on the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; and Impanell'd a Jury of <hi>Black birds, Owles,</hi> and <hi>Wood<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>;</hi> by which they try'd the <hi>Eagle;</hi> who made a Royal and <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ous defence; but, notwithſtanding, he was brought in <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by the <hi>Woodcocks,</hi> and had his head Chop'd off by a One<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Hedg-Bird,</hi> upon a block erected by his own Neſt, for <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Purpoſe.</p>
+            <p>This villianie of the <hi>Blackbirds</hi> being Effected, was Mourn<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſung by the <hi>Nightingales</hi> and <hi>Goldfinches,</hi> throughout all the <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ves in Chriſtendom, which reduc'd the Trait'rous <hi>Blackbirds</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er ſuch an Odium for their Infamy, that their name grew <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eful to all <hi>birds</hi> in all Nations.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t here was not the Period of their Villanies: For the <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing <hi>Eaglet,</hi> (who by lawful Inheritance ſhould have ſucceed<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in the Soveraignty, which the Villanous <hi>lackbirds,</hi> by their <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>-thirſty means, had ſnatch'd into their own Poſſeſſions) was <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to Eſcape into Foreign Thickets, left the ſame fate of his <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eceſſour ſhould have been barbarouſly impos'd upon hiim. Now, the <hi>blackbirds,</hi> in the <hi>Eaglet's</hi> abſence, began to flock a feather, and Conſult the ſafeſt way to Continue the Govern<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ent in their hands, and exclude the Young Eaglet; in order to <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ich, they Choſe an Old ſubtle <hi>Hawk,</hi> to Rule over them as <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tector, who immediately Run his Noſe where the Old Eagle <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſet his Breech, and thankfully embrac'd the honour the <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ack-birds</hi> had confer'd upon him.</p>
+            <p>The Loyal <hi>Magpies</hi> and <hi>Daws,</hi> who had eſcaped the Fury of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Old Hawk,</hi> and his Accomplices, were in Baniſhment with <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Eaglet,</hi> during the time of the <hi>Hawk's</hi> Protectorſhip; which <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nued for ſome ſpace of Time; till at laſt he ſickened in <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lting Seaſon, and dyed of the Pip; who was afterwards <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g up, to Scare the <hi>Blackbirds</hi> out of <hi>Paddington-Fields.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he <hi>Blackbirds,</hi> at the Death of their Protector, began to <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>bout in great Confuſion, knowing not well who to place <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uthority over them; at laſt after a general Debate, it was <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ght fit to Confer the Honour of the Protectorſhip upon the <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ng <hi>Hawk,</hi> (ſtill bearing an Exorbitant hatred againſt the <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>es</hi> Poſterity) but finding themſelves uneaſie under the Government of the Young <hi>Hawk,</hi> thinking him not rightly <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d to their deſigns and purpoſes, they Re-aſſumed the Au<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ith of the Throne into their own hands: Hpon which, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y diſcontents ſprung up amongſt the <hi>Eagletonians;</hi> who <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e mighty deſirous, that the Young <hi>Eaglet</hi> might be reſtored his <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ightful Soveraignity: and a Loyal <hi>Dove,</hi> that wanting no<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g but oppertunity to effect this purpoſe; who having ſome <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſands of good Old hardy true bred <hi>Engliſh Cocks</hi> under his <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>amand, was reſolv'd (if occaſion required it) to try one <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ng Blow with the <hi>Blackbirds,</hi> to reſtore the <hi>Eaglet</hi> to his <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>one; who having aſſurance of the Fidelity of the <hi>Doves, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>pies. Cocks,</hi> and moſt Birds of the better Rank and Quality, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ntur'd to quit his Forreign ſolitarineſs, and Aſſume the glo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s Soveraignty of the <hi>Birds,</hi> which lawfully Deſcended to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Order to effect this Enterprize, he Conſulted with his friendly <hi>Doves</hi> and <hi>Magpies,</hi> for the Management of this weighty Affair; who encouraged and adviſed him, by all means, to lay hold of the Preſent Opportunity to do himſelf that Juſtice, which the <hi>Blackbirds,</hi> if in Power, would never Condeſcend to do him.</p>
+            <p>This ſo Animated the Royal Virtues of the <hi>Eaglet,</hi> (who want<g ref="char:EOLhyphen"/>ed neither Greatneſs, Goodneſs, or Activity to perform a Noble Action) that He Immediately concurr'd with Them, and took his flight from his wandring deſert, attended with a Train of Loyal <hi>Doves</hi> and <hi>Magpies,</hi> who had conveniently ſhar'd the fate of their moſt belov'd <hi>Eaglet;</hi> He had no ſooner Pearcht upon the Bough, in the Precincts of his own Soveraignity, but the <hi>Nightingals Linnets,</hi> and <hi>Goldfinches</hi> ſtrain'd their harmonious Throats, to warble him a hearty welcome from his wandring Exile.</p>
+            <p>This News was ſoon ſpread by the <hi>Eagletonians</hi> through all the Neighbouring Groves and Bowers; which being Chirped in<g ref="char:EOLhyphen"/>to the Ears of the <hi>Blackbird,</hi> ſoon made them quit the <hi>Doves</hi> and <hi>Magpies</hi> lofty Cedars, and ſhroud themſelves under their Old Cover, Shrubs, and Hedges, to hide themſelves from the Juſtice of the <hi>Eaglet,</hi> which their Villanies had long deſerved.</p>
+            <p>The Loyal Birds plucking of their Ruſty Feathers, which the diſcontent of a long War had continued on them, they Spruc'd up their Chimes, and, with unanimous Joy, met the <hi>Eaglet,</hi> and ſo Conduct him with all Splendour and Safety, to the Throne of his Royal Anceſtours; which was effectually performed with all Splendour and Solemnity imaginable.</p>
+            <p>The <hi>Eagle</hi> then thought fit to ſend forth his Gracious De<g ref="char:EOLhyphen"/>claration, to aſſure his Feathered Subjects, of his Goodneſs and Mercy towards them, even to the Rebellious <hi>Blackbirds;</hi> which gave them ſuch Heart, that they began to have the Confidence to peep their Miſchievous Noddles out of the Buſhes, which had deſerved to have been ſet up for Scare Crows, had not the <hi>Eagles</hi> goodneſs been greater than the <hi>Blackbirds</hi> Merit.</p>
+            <p>The <hi>Eagle,</hi> by this time, being firmly ſeated in the Throne of his Anceſtours, giving his Subject all the Proſpect of a Con<g ref="char:EOLhyphen"/>tinued happineſs under his Government, and the <hi>Blackbirds</hi> giving all aſſurance of iheir Fidelity and Aliegance to the <hi>Eagle,</hi> by humble addreſſees, fill'd with all Proteſtations of their Loyal<g ref="char:EOLhyphen"/>ty; which the <hi>Eagle,</hi> for ſome time, believ'd, till he diſ<g ref="char:EOLhyphen"/>cover'd ſome ſparks of Reaſon to the Contrary.</p>
+            <p>The Government had not reſted long in this Peacable State, when the <hi>Blackbirds,</hi> ſeeing the <hi>Eagle</hi> continue the Lover of his Anceſtors to the <hi>Magpies,</hi> reaſſum'd their worſted Infidelity, and began to conſpire the Death of the <hi>Eagle:</hi> To accompliſh which, they (at a time when the <hi>Eagle</hi> viſited a Neighbouring Royal Grove, as his Annual Cuſtom) ambuſcad<g ref="char:EOLhyphen"/>ed themſelves in a <hi>Ryfield,</hi> when the <hi>Eagle,</hi> with his atten<g ref="char:EOLhyphen"/>dance was to fly by: But He through the Quickneſs of his Eye, and ſharpneſs of his Judgment, diſcover'd their deſigin trapping ſome in a Gin for their Inſolence.</p>
+            <p>The <hi>Blackbirds</hi> ſeeing their Plot disbover'd, and Infamy for ea<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> o'er the <hi>Eagle</hi>'s Dominions, began to exaſperate their Malice ſo againſt him, that they uſe all poſſible means to diſparage his Royal Virtues, by taxing him with the ſame Crimes, with which they had wrongfully accuſed his Predeceſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or; which made the <hi>Eagle</hi> ſtretch forth his Talents, for his own ſecu<g ref="char:EOLhyphen"/>rity:</p>
+            <p>Thus they continued plotting and contriving many Years <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bring the <hi>Eagle,</hi> and the <hi>Magpies,</hi> to whiſtle to the <hi>Blackbirds</hi>
+               <pb n="4" facs="tcp:42330:3"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>une; but their Deſigns were all fruſtrated by the <hi>Eagle</hi> and <hi>Magpies</hi> policy.</p>
+            <p>At laſt, the <hi>Eagle</hi> tir'd with his tedious Reign, and very much diſturb'd with the Inſolence of the <hi>Blackbirds,</hi> ſoar'd up into the Lap of <hi>Jove,</hi> and left his Soveraignty to the <hi>Oſtrich;</hi> whom the <hi>Blackbirds,</hi> as well as the reſt of the Feather'd Choire, admitted very peaceably to the Throne; all things carrying a fair proſpect of his own Glory, and his Subjects Happineſs.</p>
+            <p>But, at laſt, the <hi>Blackbirds</hi> fixing their Eyes upon the ſplendid plumes of the Illegitimate <hi>Peacock,</hi> began to withdraw that Loyalty and Affection, which till that time, they had paid with ſeeming great Devotion to the <hi>Oſtrich.</hi>
+            </p>
+            <p>The <hi>Peacock,</hi> ſeeing himſelf ſo ador'd by the <hi>Blackbirds,</hi> began to diſplay his Gawdy Wings and Tayl before the Sun, amidſt the Admiring Crew of Flattering Spectators; who Addreſt him with all Submiſſion add Applauſe; entreating him to take upon him the Patronage of a Flock of Fowls, which ſo much Admir'd and Ador'd him.</p>
+            <p>The <hi>Peacock,</hi> Proud of the Favours he had obtained of them, Return'd them thanks for the great Honour they were willing to Confer upon him: the reſtleſs <hi>Blackbird,</hi> now having the Gaudy Wings of the <hi>Peacock</hi> to ſhelter their ill Deſigns, by prevailing Whiſtles, they perſwaded the ſilly <hi>Bird</hi> to believe, he is Right Heir to the Soveraignty of the <hi>Birds,</hi> or that the <hi>Oſtrich</hi> was an Uſurper, a Tyrant; and that he joyn'd with the <hi>Vulturans,</hi> to deſtroy the Rights and Priviledges of the <hi>Blackbirds,</hi> and the reſt of the Feathered Subjects, by ſupporting and maintaining Vultures in each Grove and For<g ref="char:EOLhyphen"/>reſt, contrary to the Laws and Statutes Eſtabliſhed in former Ages by the <hi>Eagles;</hi> and therefore, ought not to continue in the Poſſeſſion of the Throne, which by Right was the <hi>Peacocks:</hi> This pleaſed the unthinking <hi>Peacock,</hi> who asked the <hi>Blackbirds,</hi> if they would ſtand by him, and he would Invade the Domini<g ref="char:EOLhyphen"/>of the <hi>Oſtrich,</hi> and Reduce their Laws and Liberties, by Force of Arms, to the ſame State, as they were when the <hi>Hawk</hi> Govern'd? They all Anſwered, <hi>Down with the</hi> Oſtrich! <hi>
+                  <g ref="char:V">Ʋ</g>p with the</hi> Peacock! <hi>Down with the</hi> Oſtrich! <hi>
+                  <g ref="char:V">Ʋ</g>p with the</hi> Peacock.</p>
+            <p>Upon this, the <hi>Blackbirds</hi> fitted themſelves for a Rebellion againſt the <hi>Oſtrich,</hi> with all expedition Imaginable, and aſſur'd the <hi>Peacock</hi> of their fidelity and Readineſs to ſerve him, with their Bills, and Plums, in the ſupport of this Rebellious Expe<g ref="char:EOLunhyphen"/>dition; deſiring the <hi>Peacock</hi> to Proclaim open war againſt the <hi>Oſtrich,</hi> and declare his Title to the Kingdom of the <hi>Birds;</hi> and that they would Immediately come in, and ſtand by him, in defence of his Right, and their own Liberties, to the laſt blood in their bodies.</p>
+            <p>The <hi>Peacock,</hi> deluded with the deceitful Notes, whiſtled to him by the <hi>Blackbirds,</hi> immediately proclaims War againſt the <hi>Oſtrich;</hi> and Pearches, with his <hi>Birds</hi> of Battle, on the Weſtern ſide of his Dominion; which News was ſoon brought <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o the Ears of the <hi>Oſtrich,</hi> who ſent out an Army o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sprightly Birds; who making a Vigorous Onſet upon the <hi>Blackbirds,</hi> and <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>heir <hi>Peacock,</hi> ſoon defeated their ſmall force, and put them <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ll to flight: The <hi>Peacock,</hi> for his ſafety, flew into a Peaſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eld, where he was diſcover'd, and took Priſoner, and ſud<g ref="char:EOLhyphen"/>denly after, by the order of the <hi>Oſtrich,</hi> had his Head twiſted <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ff for High-Treaſon: And many of the <hi>Blackbirds</hi> Followers <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ad the misfortune to be choakt with Hempſeed.</p>
+            <p>The Succeſs of this Victory, added much to the Magnani<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the <hi>Oſtrich;</hi> to Whom all Partys, with great ſubmition, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>gan to acknowledge their Allegiance, and eſpecially <hi>Blackbirds.</hi>
+            </p>
+            <p>The <hi>Oſtrich</hi> thinking himſelf now ſo ſafely ſeated in his Th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that no <hi>Birds</hi> were able to contend with him, or Power rem<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> him, begins to conſult all Stratagems, with the <hi>Vulturean</hi> B<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to Introduce <hi>Vultury</hi> amongſt them; which deſign being <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>derſtood by the <hi>Doves</hi> and <hi>Magpies,</hi> they Conſulted all means imaginable, for the Prevention of <hi>Vultury</hi> comin<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> upon them, and the reſt of the Birds:</p>
+            <p>Whereupon the <hi>Oſtrich,</hi> as a means to effect his Deſign-Hand, Publiſhes a Declaration for <hi>LIBERTY</hi> for <hi>Blackbir<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, Woodcocks, Owls, Vulturians,</hi> &amp;c. thinking, by that means <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> give opportunity for <hi>Vultury,</hi> to grow perſwaſively upon <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Doves</hi> and <hi>Magpies,</hi> till by this means he growing ſtrong eno<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to contend with them and the reſt of the Feathered Choi<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> but theſe Stratagems were no ways effectual: For the <hi>M<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>pies</hi> apprehending the Deſigns of the <hi>Oſtrich<g ref="char:punc">▪</g>
+               </hi> Chattered it <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all the Birds in the Air, and that not only they, but the <hi>Bla<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>birds,</hi> &amp;c. might beware againſt ſuch proceedings. And <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Magpies</hi> being more Inquiſitive in this Affair, then the <hi>Oſtr<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> thought neceſſary, were ſeven on them committed into a Cag<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> which made excellent ſport for the <hi>Blackbirds,</hi> who Whiſtl<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> all the Merry Tunes in their Budget, to ſee the <hi>Magpies</hi> un<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſuch Confinement.</p>
+            <p>The <hi>Oſtrich</hi> now began to Rule very Tyrannically o're <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Subjects, entertaining and advancing the <hi>Vulturians</hi> and <hi>Bla<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>birds</hi> chief Preferment about his Court, and likewiſe place th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in Authority, over all Woods and Groves, <hi>&amp;c.</hi> throughout <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whole Dominion: And to carry on his Deſign the better, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> adviſed his Mate to ſteel an Egg out of a <hi>Cuckcoes</hi>-Neſt, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> hatches it her ſelf, to Cheat, the <hi>Doves</hi> and <hi>Magpies;</hi> who <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> knowing ſhe had not Lay'd-in many Years before, was v<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> much diſcontented ſuch a trick ſhould be put upon them <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>Whereupon a Foreign <hi>Spread Eagle,</hi> being inform'd of th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Illegal proceedings of the <hi>Oſtrich,</hi> and his Mate (and at <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Requeſt of ſeveral of the Feather'd Choire) came over, w<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> many Martial Birds of the Ayr: And Invaded the Oſtric<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Territories: Upon which the <hi>Oſtrich</hi> being taught with Reflec<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ons of his paſt Follies, and unkindneſs to his Loving Subject had not the heart to contend with the <hi>Spread Eagle,</hi> who <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>p<g ref="char:EOLhyphen"/>peared in their Vindication; but immediately taking Wi<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> flew over to the <hi>Vulture,</hi> craving ſhelter under his Win<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> leaving his Subjects to be Guarded and Redreſt by the <hi>Spre<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Eagle;</hi> Whoſe care is daily to repleat that Happineſs amon<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> them, which the <hi>Oſtrich,</hi> in his Reign deſtroy'd, if not obſt<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cted by the Reſtleſs Murmurs of the <hi>Blackbirds.</hi>
+            </p>
+            <p>
+               <hi>Old Shooes and Boots, will you buy any Brooms, H<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Thank ye, Don't ye know one</hi> Joſeph Ditchfield, <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Haberdaſher of Old Iron? O Yes,</hi> Oliver <hi>ye kn<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> had a moſt Damnable Noſe. Why</hi> Robbin Jo<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Clark <hi>Holds-forth at the</hi> Bull <hi>and</hi> Mouth, <hi>on <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 31ſt. <hi>day of this</hi> Month.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edward Thompkins,</hi> a Lover of the <hi>Magpies,</hi> 1691.</p>
+            <pb facs="tcp:42330:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
